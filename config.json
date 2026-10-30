@@ -1,0 +1,13 @@
+{
+  "version": "briefing-v1",
+  "timezone": "Asia/Seoul",
+  "schedule": {"enabled": false, "times": ["08:30", "14:00", "20:30"], "approval_required": true},
+  "window_hours": 12,
+  "recent_weight_hours": 6,
+  "news_pages_per_seed": 10,
+  "validation_event_limit": 20,
+  "watch_threshold": 55,
+  "write_threshold": 70,
+  "max_blog_recent7d": 30,
+  "max_results": 3
+}

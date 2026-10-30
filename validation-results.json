@@ -1,0 +1,23 @@
+{
+  "unit_tests_passed": 19,
+  "original_source_changed": [],
+  "backup": "C:\\Users\\chltj\\OneDrive\\문서\\ChatGPT\\블로그\\backups\\before-topic-recommender-20261023-220414",
+  "final_run": "20261023-221704",
+  "performance": {
+    "peak_ram_mib": 66.14,
+    "elapsed_seconds": 27.32,
+    "cpu_seconds": 7.03,
+    "http_requests": 97,
+    "api_counts": {
+      "/search/v1/news": 93,
+      "/search-trend/v1/search": 1,
+      "/search/v1/blog": 3
+    },
+    "llm_calls": 0
+  },
+  "development_http_attempts_total": 320,
+  "schedule_enabled": false,
+  "scheduler_started": false,
+  "llm_calls": 0,
+  "old_collector_pid": 28724
+}
